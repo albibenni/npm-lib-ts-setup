@@ -1,8 +1,8 @@
 {
-  "name": "missoun-viewer-lib",
+  "name": "testing-npm-lib",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "alberto benatti",
   "main": ".dist/index.js",
   "module": ".dist/index.mjs",
   "types": ".dist/index.d.ts",
