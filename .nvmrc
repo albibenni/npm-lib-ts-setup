@@ -1,1 +1,3 @@
 v21.1.0
+always-auth=true
+@albibenni:registry=https://npm.pkg.github.com
