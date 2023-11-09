@@ -17,10 +17,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-    "@babylonjs/core": "^6.28.1",
-    "@babylonjs/inspector": "^6.28.1"
-  },
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
     "@types/node": "^20",
