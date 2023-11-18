@@ -1,5 +1,11 @@
 # testing-npm-lib
 
+## 0.1.2
+
+### Patch Changes
+
+- d98480e: fix tsup config
+
 ## 0.1.1
 
 ### Patch Changes
