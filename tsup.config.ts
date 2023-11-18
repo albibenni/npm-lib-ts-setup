@@ -6,7 +6,6 @@ export default defineConfig(async () => {
       entry: ["src/**/*.ts"],
       format: ["esm", "cjs"],
       dts: true,
-      access: "public",
     },
   ];
 });
