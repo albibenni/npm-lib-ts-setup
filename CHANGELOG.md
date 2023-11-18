@@ -1,5 +1,11 @@
 # testing-npm-lib
 
+## 0.1.7
+
+### Patch Changes
+
+- 33582b9: a
+
 ## 0.1.6
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
   "name": "testing-npm-lib",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": "alberto benatti",
   "main": ".dist/index.js",
   "module": ".dist/index.mjs",
