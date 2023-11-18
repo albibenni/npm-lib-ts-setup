@@ -1,5 +1,11 @@
 # testing-npm-lib
 
+## 0.1.4
+
+### Patch Changes
+
+- 047e42d: tsup
+
 ## 0.1.3
 
 ### Patch Changes
