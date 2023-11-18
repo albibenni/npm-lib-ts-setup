@@ -1,5 +1,11 @@
 # testing-npm-lib
 
+## 0.1.3
+
+### Patch Changes
+
+- c555860: fix changeset config to public
+
 ## 0.1.2
 
 ### Patch Changes
