@@ -1,5 +1,11 @@
 # testing-npm-lib
 
+## 0.1.5
+
+### Patch Changes
+
+- 7c06a39: retry
+
 ## 0.1.4
 
 ### Patch Changes
