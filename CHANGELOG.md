@@ -1,5 +1,11 @@
 # testing-npm-lib
 
+## 0.1.6
+
+### Patch Changes
+
+- a4382b0: scope fix
+
 ## 0.1.5
 
 ### Patch Changes
