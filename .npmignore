@@ -3,3 +3,4 @@ tests
 pnpm-lock.yaml
 tsconfig.json
 .changeset
+.vscode
