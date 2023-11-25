@@ -2,12 +2,15 @@
   "name": "testing-npm-lib",
   "version": "0.1.7",
   "author": "alberto benatti",
-  "main": ".dist/bin.js",
+  "main": "./dist/bin.js",
+  "module": "..dist/bin.mjs",
+  "types": ".dist/bin.d.ts",
   "scripts": {
-    "build": "esbuild --bundle src/bin.ts --platform=node --outfile=dist/bin.js --packages=external --format=esm",
-    "ci": "pnpm run build",
-    "release": "pnpm run ci && changeset publish",
-    "local-link": "yarn unlink --global | true && pnpm run build && yarn link --global"
+    "dev": "vitest",
+    "test": "vitest run",
+    "lint": "tsc",
+    "build": "tsup",
+    "ci": "pnpm run lint && pnpm run test && pnpm run build"
   },
   "publishConfig": {
     "access": "public"
